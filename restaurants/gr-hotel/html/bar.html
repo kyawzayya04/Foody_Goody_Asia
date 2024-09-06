@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Foody Goody</title>
+
+    <!-- fav icon -->
+    <link rel="icon" href="">
+
+    <!-- bootstrap css file -->
+    <link rel="stylesheet" href="../../../assets/libs/bootstrap/bootstrap.min.css">
+
+    <!-- fontawesome cdn link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- custom css file -->
+    <link rel="stylesheet" href="../css/meal.css">
+    <link rel="stylesheet" href="../css/menu.css">
+
+</head>
+<body>
+
+    <div class="containers">
+        <!-- Navbar starts -->
+        <nav class="navbar justify-content-around p-2 mb-3">
+    
+            <a href="#" class="d-flex align-items-center text-decoration-none">
+                <div class="rounded-0 overflow-hidden logo">
+                    <img src="../img/logo/logo1.png" width="70px" height="auto" alt="gr_hotel">
+                </div>
+                <div class="d-flex flex-column logo-title">
+                    <h3 class="m-0">Golden Roc</h3>
+                    <span class="m-0">- Hotel -</span>
+                </div>
+            </a>
+    
+            <div class="menu">
+                <a href="./meal.html" class="text-white text-decoration-none menu-item" id="meal">Meal</a>
+                <a href="./drinks.html" class="text-white text-decoration-none menu-item" id="drinks">Beverages</a>
+                <a href="./bar.html" class="text-white text-decoration-none menu-item active" id="burger-bar">Bar</a>
+            </div>
+    
+            <div class="burger">
+                <i class="fa-solid fa-2x fa-bars text-white"></i>
+            </div>
+    
+            <div class="burger-menu p-0">
+                <i class="fa-solid fa-xmark text-white text-end" id="close"></i>
+                <a href="./meal.html" class="text-white text-decoration-none" id="burger-meal">Meal</a>
+                <a href="./drinks.html" class="text-white text-decoration-none" id="burger-beverages">Beverages</a>
+                <a href="./bar.html" class="text-white text-decoration-none" id="burger-bar">Bar</a>
+            </div>
+    
+        </nav>
+        <!-- Navbar ends -->
+    
+        <!-- Category starts -->
+        <div class="categroy-container">
+            <h3 class="category-title mb-3">Discover Menu</h3>
+            <div class="category">
+                <button type="button" class="category-btn category-active" data-page="barmenu">Bar Menu</button>
+            </div>
+        </div>
+        <!-- Category ends -->
+
+        <!-- Menu list starts ( Last card => card70 ) -->
+        
+        <!-- 185 to 205 -->
+        <div id="barmenu" class="menu-container">
+
+            <div class="card185 d-flex justify-content-between align-items-center menu-card">
+                <div class="d-flex mc">
+                    <div>
+                        <img src="../img/bar/bar_menu/buffalo_wings.jpg" width="150px" height="150px" alt="fried chicken wings">
+                    </div>
+                    <div class="d-flex flex-column justify-content-between menu-card-details">
+                        <div>
+                            <h3 class="fw-bold text-end">Buffalo Wings <span></span></h3>
+                            <h3 class="fw-bold text-end">炸雞翅 <span></span></h3>
+                        </div>
+                        <div class="text-end">
+                            <span class="price">15,000 <span>MMK</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card186 d-flex justify-content-between align-items-center menu-card">
+                <div class="d-flex mc">
+                    <div>
+                        <img src="../img/bar/bar_menu/chicken_feet_salad.jpg" width="150px" height="150px" alt="fried fish finger">
+                    </div>
+                    <div class="d-flex flex-column justify-content-between menu-card-details">
+                        <div>
+                            <h3 class="fw-bold text-end">Chicken Feet Salad <span></span></h3>
+                            <h3 class="fw-bold text-end">凉拌鸡爪 <span></span></h3>
+                        </div>
+                        <div class="text-end">
+                            <span class="price">9,000 <span>MMK</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card187 d-flex justify-content-between align-items-center menu-card">
+                <div class="d-flex mc">
+                    <div>
+                        <img src="../img/bar/bar_menu/chicken_satay.jpg" width="150px" height="150px" alt="fried pork spare ribs">
+                    </div>
+                    <div class="d-flex flex-column justify-content-between menu-card-details">
+                        <div>
+                            <h3 class="fw-bold text-end">Chicken Satay <span></span></h3>
+                            <h3 class="fw-bold text-end">雞沙爹 <span></span></h3>
+                        </div>
+                        <div class="text-end">
+                            <span class="price">12,000 <span>MMK</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card188 d-flex justify-content-between align-items-center menu-card">
+                <div class="d-flex mc">
+                    <div>
+                        <img src="../img/bar/bar_menu/crispy_chili_eel.jpg" width="150px" height="150px" alt="fried potato mala">
+                    </div>
+                    <div class="d-flex flex-column justify-content-between menu-card-details">
+                        <div>
+                            <h3 class="fw-bold text-end">Crispy Chili Eel <span></span></h3>
+                            <h3 class="fw-bold text-end">辣鳗鱼干 <span></span></h3>
+                        </div>
+                        <div class="text-end">
+                            <span class="price">15,000 <span>MMK</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card189 d-flex justify-content-between align-items-center menu-card">
+                <div class="d-flex mc">
+                    <div>
+                        <img src="../img/bar/bar_menu/crispy_chili_fresh_water_prawn.jpg" width="150px" height="150px" alt="fried prawn tempura">
+                    </div>
+                    <div class="d-flex flex-column justify-content-between menu-card-details">
+                        <div>
+                            <h3 class="fw-bold text-end">Crispy Chili Fresh Water Prawn <span></span></h3>
+                            <h3 class="fw-bold text-end">干辣虾 <span></span></h3>
+                        </div>
+                        <div class="text-end">
+                            <span class="price">25,000 <span>MMK</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card190 d-flex justify-content-between align-items-center menu-card">
+                <div class="d-flex mc">
+                    <div>
+                        <img src="../img/bar/bar_menu/crispy_chili_softshell_crab.jpg" width="150px" height="150px" alt="fried spring rolls">
+                    </div>
+                    <div class="d-flex flex-column justify-content-between menu-card-details">
+                        <div>
+                            <h3 class="fw-bold text-end">Crispy Chili Softshell Crab <span></span></h3>
+                            <h3 class="fw-bold text-end">干辣软螃蟹 <span></span></h3>
+                        </div>
+                        <div class="text-end">
+                            <span class="price">23,000 <span>MMK</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card191 d-flex justify-content-between align-items-center menu-card">
+                <div class="d-flex mc">
+                    <div>
+                        <img src="../img/bar/bar_menu/crispy_fried_beef.jpg" width="150px" height="150px" alt="fried chicken wings">
+                    </div>
+                    <div class="d-flex flex-column justify-content-between menu-card-details">
+                        <div>
+                            <h3 class="fw-bold text-end">Crispy Fried Beef <span></span></h3>
+                            <h3 class="fw-bold text-end">炒干巴 <span></span></h3>
+                        </div>
+                        <div class="text-end">
+                            <span class="price">18,000 <span>MMK</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card192 d-flex justify-content-between align-items-center menu-card">
+                <div class="d-flex mc">
+                    <div>
+                        <img src="../img/bar/bar_menu/crispy_fried_pork_belly.jpg" width="150px" height="150px" alt="fried fish finger">
+                    </div>
+                    <div class="d-flex flex-column justify-content-between menu-card-details">
+                        <div>
+                            <h3 class="fw-bold text-end">Crispy Fried Pork Belly <span></span></h3>
+                            <h3 class="fw-bold text-end">干炸三线肉 <span></span></h3>
+                        </div>
+                        <div class="text-end">
+                            <span class="price">15,000 <span>MMK</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card193 d-flex justify-content-between align-items-center menu-card">
+                <div class="d-flex mc">
+                    <div>
+                        <img src="../img/bar/bar_menu/crispy_fried_squid.jpg" width="150px" height="150px" alt="fried pork spare ribs">
+                    </div>
+                    <div class="d-flex flex-column justify-content-between menu-card-details">
+                        <div>
+                            <h3 class="fw-bold text-end">Crispy Fried Squid <span></span></h3>
+                            <h3 class="fw-bold text-end">脆皮炸魷魚 <span></span></h3>
+                        </div>
+                        <div class="text-end">
+                            <span class="price">20,000 <span>MMK</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card194 d-flex justify-content-between align-items-center menu-card">
+                <div class="d-flex mc">
+                    <div>
+                        <img src="../img/bar/bar_menu/ear_mushroom_salad.jpg" width="150px" height="150px" alt="fried potato mala">
+                    </div>
+                    <div class="d-flex flex-column justify-content-between menu-card-details">
+                        <div>
+                            <h3 class="fw-bold text-end">Ear Mushroom Salad <span></span></h3>
+                            <h3 class="fw-bold text-end">凉拌木耳 <span></span></h3>
+                        </div>
+                        <div class="text-end">
+                            <span class="price">7,000 <span>MMK</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card195 d-flex justify-content-between align-items-center menu-card">
+                <div class="d-flex mc">
+                    <div>
+                        <img src="../img/bar/bar_menu/fish_cracker.jpg" width="150px" height="150px" alt="fried prawn tempura">
+                    </div>
+                    <div class="d-flex flex-column justify-content-between menu-card-details">
+                        <div>
+                            <h3 class="fw-bold text-end">Fish Cracker <span></span></h3>
+                            <h3 class="fw-bold text-end">炸鱼饼 <span></span></h3>
+                        </div>
+                        <div class="text-end">
+                            <span class="price">6,000 <span>MMK</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card196 d-flex justify-content-between align-items-center menu-card">
+                <div class="d-flex mc">
+                    <div>
+                        <img src="../img/bar/bar_menu/flaming_pork_ribs.jpg" width="150px" height="150px" alt="fried spring rolls">
+                    </div>
+                    <div class="d-flex flex-column justify-content-between menu-card-details">
+                        <div>
+                            <h3 class="fw-bold text-end">Flaming Pork Ribs <span></span></h3>
+                            <h3 class="fw-bold text-end">火山排骨 <span></span></h3>
+                        </div>
+                        <div class="text-end">
+                            <span class="price">18,000 <span>MMK</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card197 d-flex justify-content-between align-items-center menu-card">
+                <div class="d-flex mc">
+                    <div>
+                        <img src="../img/bar/bar_menu/fm_soup_chicken.jpg" width="150px" height="150px" alt="fried chicken wings">
+                    </div>
+                    <div class="d-flex flex-column justify-content-between menu-card-details">
+                        <div>
+                            <h3 class="fw-bold text-end">F/M Soup Chicken <span></span></h3>
+                            <h3 class="fw-bold text-end">农家汤 <span></span></h3>
+                        </div>
+                        <div class="text-end">
+                            <span class="price">13,000 <span>MMK</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card198 d-flex justify-content-between align-items-center menu-card">
+                <div class="d-flex mc">
+                    <div>
+                        <img src="../img/bar/bar_menu/fried_fish_finger.jpg" width="150px" height="150px" alt="fried fish finger">
+                    </div>
+                    <div class="d-flex flex-column justify-content-between menu-card-details">
+                        <div>
+                            <h3 class="fw-bold text-end">Fried Fish Finger <span></span></h3>
+                            <h3 class="fw-bold text-end">炸鱼条 <span></span></h3>
+                        </div>
+                        <div class="text-end">
+                            <span class="price">15,000 <span>MMK</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card199 d-flex justify-content-between align-items-center menu-card">
+                <div class="d-flex mc">
+                    <div>
+                        <img src="../img/bar/bar_menu/grilled_pork_neck.jpg" width="150px" height="150px" alt="fried pork spare ribs">
+                    </div>
+                    <div class="d-flex flex-column justify-content-between menu-card-details">
+                        <div>
+                            <h3 class="fw-bold text-end">Grilled Pork Neck <span></span></h3>
+                            <h3 class="fw-bold text-end">烤豬肉 <span></span></h3>
+                        </div>
+                        <div class="text-end">
+                            <span class="price">17,000 <span>MMK</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card200 d-flex justify-content-between align-items-center menu-card">
+                <div class="d-flex mc">
+                    <div>
+                        <img src="../img/bar/bar_menu/jellyfish_salad.jpg" width="150px" height="150px" alt="fried potato mala">
+                    </div>
+                    <div class="d-flex flex-column justify-content-between menu-card-details">
+                        <div>
+                            <h3 class="fw-bold text-end">Jelly Fish Salad <span></span></h3>
+                            <h3 class="fw-bold text-end">海螫沙拉 <span></span></h3>
+                        </div>
+                        <div class="text-end">
+                            <span class="price">8,000 <span>MMK</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card201 d-flex justify-content-between align-items-center menu-card">
+                <div class="d-flex mc">
+                    <div>
+                        <img src="../img/bar/bar_menu/osan_glass_noodles_salad.jpg" width="150px" height="150px" alt="fried prawn tempura">
+                    </div>
+                    <div class="d-flex flex-column justify-content-between menu-card-details">
+                        <div>
+                            <h3 class="fw-bold text-end">O'Son Glass Noodles Salad <span></span></h3>
+                            <h3 class="fw-bold text-end">凉拌粉丝莴笋 <span></span></h3>
+                        </div>
+                        <div class="text-end">
+                            <span class="price">13,000 <span>MMK</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card202 d-flex justify-content-between align-items-center menu-card">
+                <div class="d-flex mc">
+                    <div>
+                        <img src="../img/bar/bar_menu/pounded_mutton.jpg" width="150px" height="150px" alt="fried spring rolls">
+                    </div>
+                    <div class="d-flex flex-column justify-content-between menu-card-details">
+                        <div>
+                            <h3 class="fw-bold text-end">Pounded Mutton <span></span></h3>
+                            <h3 class="fw-bold text-end">舂羊肉 <span></span></h3>
+                        </div>
+                        <div class="text-end">
+                            <span class="price">18,000 <span>MMK</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card203 d-flex justify-content-between align-items-center menu-card">
+                <div class="d-flex mc">
+                    <div>
+                        <img src="../img/bar/bar_menu/sauage_fried_chili.jpg" width="150px" height="150px" alt="fried potato mala">
+                    </div>
+                    <div class="d-flex flex-column justify-content-between menu-card-details">
+                        <div>
+                            <h3 class="fw-bold text-end">Sauage Chili Fry <span></span></h3>
+                            <h3 class="fw-bold text-end">炸辣香肠 <span></span></h3>
+                        </div>
+                        <div class="text-end">
+                            <span class="price">13,000 <span>MMK</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card204 d-flex justify-content-between align-items-center menu-card">
+                <div class="d-flex mc">
+                    <div>
+                        <img src="../img/bar/bar_menu/thai_tom_yum_soup_with_prawn.jpg" width="150px" height="150px" alt="fried prawn tempura">
+                    </div>
+                    <div class="d-flex flex-column justify-content-between menu-card-details">
+                        <div>
+                            <h3 class="fw-bold text-end">Thai Tom Yum Soup With Prawn <span></span></h3>
+                            <h3 class="fw-bold text-end">冬阴功汤 <span></span></h3>
+                        </div>
+                        <div class="text-end">
+                            <span class="price">20,000 <span>MMK</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card205 d-flex justify-content-between align-items-center menu-card">
+                <div class="d-flex mc">
+                    <div>
+                        <img src="../img/bar/bar_menu/vegetables_tempura.jpg" width="150px" height="150px" alt="fried spring rolls">
+                    </div>
+                    <div class="d-flex flex-column justify-content-between menu-card-details">
+                        <div>
+                            <h3 class="fw-bold text-end">Vegetables Tempura <span></span></h3>
+                            <h3 class="fw-bold text-end">蔬菜天婦羅 <span></span></h3>
+                        </div>
+                        <div class="text-end">
+                            <span class="price">8,000 <span>MMK</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+        <!-- Menu list ends -->
+    </div>
+    
+</body>
+
+<!-- bootstrap js file -->
+<script src="../../../assets/libs/bootstrap/bootstrap.bundle.min.js"></script>
+
+<!-- custom js file -->
+<script src="../js/meal.js"></script>
+
+</html>

@@ -1,0 +1,911 @@
+/* card starts */
+
+.card1 {
+  background: url(../img/meal/appetizer/fried_chicken_wings.jpg);
+}
+
+.card2 {
+  background: url(../img/meal/appetizer/fried_fish_finger.jpg);
+}
+
+.card3 {
+  background: url(../img/meal/appetizer/fried_pork_spare_ribs.jpg);
+}
+
+.card4 {
+  background: url(../img/meal/appetizer/fried_potato_mala.jpg);
+}
+
+.card5 {
+  background: url(../img/meal/appetizer/fried_prawn_tempura.jpg);
+}
+
+.card6 {
+  background: url(../img/meal/appetizer/fried_spring_rolls.jpg);
+}
+
+.card7 {
+  background: url(../img/meal/main_course/chicken_sour_and_spicy.jpg);
+}
+
+.card8 {
+  background: url(../img/meal/main_course/fish_pot.jpg);
+}
+
+.card9 {
+  background: url(../img/meal/main_course/fried_chicken_sweet_and_sour.jpg);
+}
+
+.card10 {
+  background: url(../img/meal/main_course/fried_pork_sweet_and_sour.jpg);
+}
+
+.card11 {
+  background: url(../img/meal/main_course/steamed_fresh_water_prawn_glass_noodle.jpg);
+}
+
+.card12 {
+  background: url(../img/meal/main_course/steamed_seabass_with_sweet.jpg);
+}
+
+.card13 {
+  background: url(../img/meal/main_course/thai_steamed_fish_with_chili_and_lime.jpg);
+}
+
+.card14 {
+  background: url(../img/meal/soup/fm_soup_chicken.jpg);
+}
+
+.card15 {
+  background: url(../img/meal/soup/korean_seafood_soup.jpg);
+}
+
+.card16 {
+  background: url(../img/meal/soup/sweet_corn_soup.jpg);
+}
+
+.card17 {
+  background: url(../img/meal/soup/thai_tom_yum_soup_with_chicken.jpg);
+}
+
+.card18 {
+  background: url(../img/meal/soup/thai_tom_yum_soup_with_prawn.jpg);
+}
+
+.card19 {
+  background: url(../img/meal/salad/century_egg_salad.jpg);
+}
+
+.card20 {
+  background: url(../img/meal/salad/chicken_feet_salad.jpg);
+}
+
+.card21 {
+  background: url(../img/meal/salad/chicken_oson_salad.jpg);
+}
+
+.card22 {
+  background: url(../img/meal/salad/glass_noodle_and_seafood.jpg);
+}
+
+.card23 {
+  background: url(../img/meal/salad/jellyfish_salad.jpg);
+}
+
+.card24 {
+  background: url(../img/meal/salad/mint_pork_salad.jpg);
+}
+
+.card25 {
+  background: url(../img/meal/vegetables/fried_asparagus_with_ginkgo_nut.jpg);
+}
+
+.card26 {
+  background: url(../img/meal/vegetables/fried_kale_with_oyster_sauce.jpg);
+}
+
+.card27 {
+  background: url(../img/meal/vegetables/fried_vegetables.jpg);
+}
+
+.card28 {
+  background: url(../img/meal/vegetables/fried_watercress_with_mushroom.jpg);
+}
+
+.card29 {
+  background: url(../img/meal/vegetables/taiwan_black_mushroom_with_oyster.jpg);
+}
+
+.card30 {
+  background: url(../img/meal/rice_and_noodle/char_kway_teow_with_seafood.jpg);
+}
+
+.card31 {
+  background: url(../img/meal/rice_and_noodle/crispy_fried_noodle.jpg);
+}
+
+.card32 {
+  background: url(../img/meal/rice_and_noodle/fried_noodle_chicken_pork.jpg);
+}
+
+.card33 {
+  background: url(../img/meal/rice_and_noodle/fried_noodle_prawn.jpg);
+}
+
+.card34 {
+  background: url(../img/meal/rice_and_noodle/fried_noodle_vegetable.jpg);
+}
+
+.card35 {
+  background: url(../img/meal/rice_and_noodle/fried_rice_beef.jpg);
+}
+
+.card36 {
+  background: url(../img/meal/rice_and_noodle/fried_rice_chicken_pork.jpg);
+}
+
+.card37 {
+  background: url(../img/meal/rice_and_noodle/fried_rice_prawn.jpg);
+}
+
+.card38 {
+  background: url(../img/meal/rice_and_noodle/fried_rice_vegetable.jpg);
+}
+
+.card39 {
+  background: url(../img/meal/rice_and_noodle/fried_vermicelli_chicken_pork.jpg);
+}
+
+.card40 {
+  background: url(../img/meal/rice_and_noodle/fried_vermicelli_prawn.jpg);
+}
+
+.card41 {
+  background: url(../img/meal/rice_and_noodle/fried_vermicelli_vegetable.jpg);
+}
+
+.card42 {
+  background: url(../img/meal/rice_and_noodle/pashu_fried_rice_chicken_pork.jpg);
+}
+
+.card43 {
+  background: url(../img/meal/rice_and_noodle/pashu_fried_rice_prawn.jpg);
+}
+
+.card44 {
+  background: url(../img/meal/rice_and_noodle/shopsuey_chicken_pork.jpg);
+}
+
+.card45 {
+  background: url(../img/meal/rice_and_noodle/shopsuey_prawn.jpg);
+}
+
+.card46 {
+  background: url(../img/meal/rice_and_noodle/singapore_style_vermicelli.jpg);
+}
+
+.card47 {
+  background: url(../img/meal/rice_and_noodle/spanish_fried_rice_chicken_pork.jpg);
+}
+
+.card48 {
+  background: url(../img/meal/europian/beef_burger.jpg);
+}
+
+.card49 {
+  background: url(../img/meal/europian/beef_steak.jpg);
+}
+
+.card50 {
+  background: url(../img/meal/europian/caesar_salad.jpg);
+}
+
+.card51 {
+  background: url(../img/meal/europian/cheese_sandwich.jpg);
+}
+
+.card52 {
+  background: url(../img/meal/europian/chicken_burger.jpg);
+}
+
+.card53 {
+  background: url(../img/meal/europian/chicken_filomena.jpg);
+}
+
+.card54 {
+  background: url(../img/meal/europian/chicken_sandwich.jpg);
+}
+
+.card55 {
+  background: url(../img/meal/europian/french_fried.jpg);
+}
+
+.card56 {
+  background: url(../img/meal/europian/garden_salad.jpg);
+}
+
+.card57 {
+  background: url(../img/meal/europian/lemon_butter_fish.jpg);
+}
+
+.card58 {
+  background: url(../img/meal/europian/mushroom_cream_soup.jpg);
+}
+
+.card59 {
+  background: url(../img/meal/europian/onion_soup.jpg);
+}
+
+.card60 {
+  background: url(../img/meal/europian/pan_fried_sea_bass.jpg);
+}
+
+.card61 {
+  background: url(../img/meal/europian/roasted_chicken_leg.jpg);
+}
+
+.card62 {
+  background: url(../img/meal/europian/salmon.jpg);
+}
+
+.card63 {
+  background: url(../img/meal/europian/tuna_sandwich.jpg);
+}
+
+.card64 {
+  background: url(../img/meal/thai_food/chicken_lemon_sauce.jpg);
+}
+
+.card65 {
+  background: url(../img/meal/thai_food/fried_thai_fishcake.jpg);
+}
+
+.card66 {
+  background: url(../img/meal/thai_food/green_curry_chicken.jpg);
+}
+
+.card67 {
+  background: url(../img/meal/thai_food/pad_thai.jpg);
+}
+
+.card68 {
+  background: url(../img/meal/thai_food/red_curry_chicken.jpg);
+}
+
+.card69 {
+  background: url(../img/meal/thai_food/thai_grilled_chicken_thighs.jpg);
+}
+
+.card70 {
+  background: url(../img/meal/thai_food/tom_kha_gai.jpg);
+}
+
+.card71 {
+  background: url(../img/drinks/classic_cocktail/ak_47.jpg);
+}
+
+.card72 {
+  background: url(../img/drinks/classic_cocktail/007_martini.jpg);
+}
+
+.card73 {
+  background: url(../img/drinks/classic_cocktail/bloody_marry.jpg);
+}
+
+.card74 {
+  background: url(../img/drinks/classic_cocktail/g.gin_tonic_wine_glass.jpg);
+}
+
+.card75 {
+  background: url(../img/drinks/classic_cocktail/gr47.jpg);
+}
+
+.card76 {
+  background: url(../img/drinks/classic_cocktail/long_island_tea.jpg);
+}
+
+.card77 {
+  background: url(../img/drinks/classic_cocktail/margarita.jpg);
+}
+
+.card78 {
+  background: url(../img/drinks/classic_cocktail/negroni.jpg);
+}
+
+.card79 {
+  background: url(../img/drinks/classic_cocktail/pegu_club.jpg);
+}
+
+.card80 {
+  background: url(../img/drinks/classic_cocktail/pinacolada.jpg);
+}
+
+.card81 {
+  background: url(../img/drinks/classic_cocktail/pink_lady.jpg);
+}
+
+.card82 {
+  background: url(../img/drinks/classic_cocktail/rum_sour.jpg);
+}
+
+.card83 {
+  background: url(../img/drinks/classic_cocktail/summer_mojito.jpg);
+}
+
+.card84 {
+  background: url(../img/drinks/classic_cocktail/whiskey_sour.jpg);
+}
+
+.card85 {
+  background: url(../img/drinks/classic_cocktail/white_lady.jpg);
+}
+
+.card86 {
+  background: url(../img/drinks/fresh_juice/dragon_fruit_juice.jpg);
+}
+
+.card87 {
+  background: url(../img/drinks/fresh_juice/green_apple_juice.jpg);
+}
+
+.card88 {
+  background: url(../img/drinks/fresh_juice/honey_lime_juice.jpg);
+}
+
+.card89 {
+  background: url(../img/drinks/fresh_juice/lime_juice.jpg);
+}
+
+.card90 {
+  background: url(../img/drinks/fresh_juice/orange_juice.jpg);
+}
+
+.card91 {
+  background: url(../img/drinks/fresh_juice/papaya_and_lime_juice.jpg);
+}
+
+.card92 {
+  background: url(../img/drinks/fresh_juice/papaya_juice.jpg);
+}
+
+.card93 {
+  background: url(../img/drinks/fresh_juice/passion_juice.jpg);
+}
+
+.card94 {
+  background: url(../img/drinks/fresh_juice/pineapple_juice.jpg);
+}
+
+.card95 {
+  background: url(../img/drinks/fresh_juice/sunkist_juice.jpg);
+}
+
+.card96 {
+  background: url(../img/drinks/fresh_juice/sweet_lemon_juice.jpg);
+}
+
+.card97 {
+  background: url(../img/drinks/fresh_juice/watermelon_juice.jpg);
+}
+
+.card98 {
+  background: url(../img/drinks/smoothies/blueberry_smoothie.jpg);
+}
+
+.card99 {
+  background: url(../img/drinks/smoothies/mango_smoothie.jpg);
+}
+
+.card100 {
+  background: url(../img/drinks/smoothies/passion_smoothie.jpg);
+}
+
+.card101 {
+  background: url(../img/drinks/smoothies/strawberry_smoothie.jpg);
+}
+
+.card102 {
+  background: url(../img/drinks/milkshake/banana_milkshake.jpg);
+}
+
+.card103 {
+  background: url(../img/drinks/milkshake/chocolate_milkshake.jpg);
+}
+
+.card104 {
+  background: url(../img/drinks/milkshake/honey_yogurt.jpg);
+}
+
+.card105 {
+  background: url(../img/drinks/milkshake/papaya_milkshake.jpg);
+}
+
+.card106 {
+  background: url(../img/drinks/milkshake/yogurt.jpg);
+}
+
+.card107 {
+  background: url(../img/drinks/italian_soda/blue_ocean_fizzy.jpg);
+}
+
+.card108 {
+  background: url(../img/drinks/italian_soda/kiwi_fizzy.jpg);
+}
+
+.card109 {
+  background: url(../img/drinks/italian_soda/lime_fizzy.jpg);
+}
+
+.card110 {
+  background: url(../img/drinks/italian_soda/peach_fizzy.jpg);
+}
+
+.card111 {
+  background: url(../img/drinks/italian_soda/strawberry_fizzy.jpg);
+}
+
+.card112 {
+  background: url(../img/drinks/champagne/moet_and_chandon_grand_vintage_2000.jpg);
+}
+
+.card113 {
+  background: url(../img/drinks/champagne/moet_and_chandon_rose.jpg);
+}
+
+.card114 {
+  background: url(../img/drinks/soft_drink/coke.jpg);
+}
+
+.card115 {
+  background: url(../img/drinks/soft_drink/coke_zero.jpg);
+}
+
+.card116 {
+  background: url(../img/drinks/soft_drink/ginger_ale.jpg);
+}
+
+.card117 {
+  background: url(../img/drinks/soft_drink/ph7_1litre.jpg);
+}
+
+.card118 {
+  background: url(../img/drinks/soft_drink/pop_soda.jpg);
+}
+
+.card119 {
+  background: url(../img/drinks/soft_drink/red_bull.jpg);
+}
+
+.card120 {
+  background: url(../img/drinks/soft_drink/shark.jpg);
+}
+
+.card121 {
+  background: url(../img/drinks/soft_drink/sprite.jpg);
+}
+
+.card122 {
+  background: url(../img/drinks/soft_drink/sun_kist_orange.jpg);
+}
+
+.card123 {
+  background: url(../img/drinks/soft_drink/tonic_water.jpg);
+}
+
+.card124 {
+  background: url(../img/drinks/beer/abc.jpg);
+}
+
+.card125 {
+  background: url(../img/drinks/beer/budweiser.jpg);
+}
+
+.card126 {
+  background: url(../img/drinks/beer/corona.jpg);
+}
+
+.card127 {
+  background: url(../img/drinks/beer/heineken.jpg);
+}
+
+.card128 {
+  background: url(../img/drinks/beer/tiger.jpg);
+}
+
+.card129 {
+  background: url(../img/drinks/whiskey/ballantine_12_years_70cl.jpg);
+}
+
+.card130 {
+  background: url(../img/drinks/whiskey/ballantine_17_years_70cl.jpg);
+}
+
+.card131 {
+  background: url(../img/drinks/whiskey/chivas_regal_12_years_1000ml.jpg);
+}
+
+.card132 {
+  background: url(../img/drinks/whiskey/chivas_regal_12_years_1000ml.jpg);
+}
+
+.card133 {
+  background: url(../img/drinks/whiskey/dalmore_18_years_750ml.jpg);
+}
+
+.card134 {
+  background: url(../img/drinks/whiskey/glenfiddich_18_years_750ml.jpg);
+}
+
+.card135 {
+  background: url(../img/drinks/whiskey/jim_beam_white_1000ml.jpg);
+}
+
+.card136 {
+  background: url(../img/drinks/whiskey/jim_beam_white_1000ml.jpg);
+}
+
+.card137 {
+  background: url(../img/drinks/whiskey/jw_black_label_1000ml.jpg);
+}
+
+.card138 {
+  background: url(../img/drinks/whiskey/jw_black_label_1000ml.jpg);
+}
+
+.card139 {
+  background: url(../img/drinks/whiskey/jw_blue_label_1000ml.jpg);
+}
+
+.card140 {
+  background: url(../img/drinks/whiskey/jw_double_black_1000ml.jpg);
+}
+
+.card141 {
+  background: url(../img/drinks/whiskey/jw_double_black_1000ml.jpg);
+}
+
+.card142 {
+  background: url(../img/drinks/whiskey/jw_gold_label_1000ml.jpg);
+}
+
+.card143 {
+  background: url(../img/drinks/whiskey/jw_gold_label_1000ml.jpg);
+}
+
+.card144 {
+  background: url(../img/drinks/whiskey/jw_red_label_1000ml.jpg);
+}
+
+.card145 {
+  background: url(../img/drinks/whiskey/jw_red_label_1000ml.jpg);
+}
+
+.card146 {
+  background: url(../img/drinks/japanese_whiskey/hibiki_japanese_harmony.jpg);
+}
+
+.card147 {
+  background: url(../img/drinks/japanese_whiskey/the_hakushu_1973.jpg);
+}
+
+.card148 {
+  background: url(../img/drinks/japanese_whiskey/the_yamazaki_12_years_70cl.jpg);
+}
+
+.card149 {
+  background: url(../img/drinks/vodka/absolut_vodka_blue_1litre.jpg);
+}
+
+.card150 {
+  background: url(../img/drinks/vodka/absolut_vodka_blue_1litre.jpg);
+}
+
+.card151 {
+  background: url(../img/drinks/vodka/grey_goose_750ml.jpg);
+}
+
+.card152 {
+  background: url(../img/drinks/vodka/smirnoff_vodka_1000ml.jpg);
+}
+
+.card153 {
+  background: url(../img/drinks/vodka/smirnoff_vodka_1000ml.jpg);
+}
+
+.card154 {
+  background: url(../img/drinks/tequlia/capatain_morgan_1litre.jpg);
+}
+
+.card155 {
+  background: url(../img/drinks/tequlia/jose_cuervo_gold_1000ml.jpg);
+}
+
+.card156 {
+  background: url(../img/drinks/tequlia/jose_cuervo_gold_1000ml.jpg);
+}
+
+.card157 {
+  background: url(../img/drinks/tequlia/jose_cuervo_white_1000ml.jpg);
+}
+
+.card158 {
+  background: url(../img/drinks/tequlia/jose_cuervo_white_1000ml.jpg);
+}
+
+.card159 {
+  background: url(../img/drinks/tequlia/mandalay_rum_bottle.jpg);
+}
+
+.card160 {
+  background: url(../img/drinks/tequlia/marlibu_rum_1000ml.jpg);
+}
+
+.card161 {
+  background: url(../img/drinks/apptife/hennessy_vsop_1litre.jpg);
+}
+
+.card162 {
+  background: url(../img/drinks/apptife_peg/hennessy_vsop_peg.jpg);
+}
+
+.card163 {
+  background: url(../img/drinks/apptife/hennessy_xo_70cl.jpg);
+}
+
+.card164 {
+  background: url(../img/drinks/apptife/jagermeister_1litre.jpg);
+}
+
+.card165 {
+  background: url(../img/drinks/apptife_peg/jagermeister_peg.jpg);
+}
+
+.card166 {
+  background: url(../img/drinks/apptife_peg/kahlua_peg.jpg);
+}
+
+.card167 {
+  background: url(../img/drinks/red_wine/aythaya_red_wine_750ml.jpg);
+}
+
+.card168 {
+  background: url(../img/drinks/red_wine/b&g_merlot_reserve_750ml.jpg);
+}
+
+.card169 {
+  background: url(../img/drinks/red_wine/bin_8.jpg);
+}
+
+.card170 {
+  background: url(../img/drinks/red_wine/lamonthe_parrot_750ml.jpg);
+}
+
+.card171 {
+  background: url(../img/drinks/red_wine/mondevino_red.jpg);
+}
+
+.card172 {
+  background: url(../img/drinks/red_wine/monte_vino_750ml.jpg);
+}
+
+.card173 {
+  background: url(../img/drinks/red_wine/rm_cabernet_sauvignon_red_wine_750ml.jpg);
+}
+
+.card174 {
+  background: url(../img/drinks/red_wine/rm_syrah_750ml.jpg);
+}
+
+.card175 {
+  background: url(../img/drinks/white_wine/aythaya_white_wine.jpg);
+}
+
+.card176 {
+  background: url(../img/drinks/white_wine/rm_blanc_2019.jpg);
+}
+
+.card177 {
+  background: url(../img/drinks/white_wine/rm_moscato.jpg);
+}
+
+.card178 {
+  background: url(../img/drinks/mocktail/cucumber_mint.jpg);
+}
+
+.card179 {
+  background: url(../img/drinks/mocktail/ginger_flute.jpg);
+}
+
+.card180 {
+  background: url(../img/drinks/mocktail/passion_mojito.jpg);
+}
+
+.card181 {
+  background: url(../img/drinks/rum_peg/bacardi_white_rum_peg.jpg);
+}
+
+.card182 {
+  background: url(../img/drinks/rum_peg/jack_daniel.jpg);
+}
+
+.card183 {
+  background: url(../img/drinks/rum_peg/mandalay_rum_peg.jpg);
+}
+
+.card184 {
+  background: url(../img/drinks/rum_peg/marlibu_rum_peg.jpg);
+}
+
+.card185 {
+  background: url(../img/bar/bar_menu/buffalo_wings.jpg);
+}
+
+.card186 {
+  background: url(../img/bar/bar_menu/chicken_feet_salad.jpg);
+}
+
+.card187 {
+  background: url(../img/bar/bar_menu/chicken_satay.jpg);
+}
+
+.card188 {
+  background: url(../img/bar/bar_menu/crispy_chili_eel.jpg);
+}
+
+.card189 {
+  background: url(../img/bar/bar_menu/crispy_chili_fresh_water_prawn.jpg);
+}
+
+.card190 {
+  background: url(../img/bar/bar_menu/crispy_chili_softshell_crab.jpg);
+}
+
+.card191 {
+  background: url(../img/bar/bar_menu/crispy_fried_beef.jpg);
+}
+
+.card192 {
+  background: url(../img/bar/bar_menu/crispy_fried_pork_belly.jpg);
+}
+
+.card193 {
+  background: url(../img/bar/bar_menu/crispy_fried_squid.jpg);
+}
+
+.card194 {
+  background: url(../img/bar/bar_menu/ear_mushroom_salad.jpg);
+}
+
+.card195 {
+  background: url(../img/bar/bar_menu/fish_cracker.jpg);
+}
+
+.card196 {
+  background: url(../img/bar/bar_menu/flaming_pork_ribs.jpg);
+}
+
+.card197 {
+  background: url(../img/bar/bar_menu/fm_soup_chicken.jpg);
+}
+
+.card198 {
+  background: url(../img/bar/bar_menu/fried_fish_finger.jpg);
+}
+
+.card199 {
+  background: url(../img/bar/bar_menu/grilled_pork_neck.jpg);
+}
+
+.card200 {
+  background: url(../img/bar/bar_menu/jellyfish_salad.jpg);
+}
+
+.card201 {
+  background: url(../img/bar/bar_menu/osan_glass_noodles_salad.jpg);
+}
+
+.card202 {
+  background: url(../img/bar/bar_menu/pounded_mutton.jpg);
+}
+
+.card203 {
+  background: url(../img/bar/bar_menu/sauage_fried_chili.jpg);
+}
+
+.card204 {
+  background: url(../img/bar/bar_menu/thai_tom_yum_soup_with_prawn.jpg);
+}
+
+.card205 {
+  background: url(../img/bar/bar_menu/vegetables_tempura.jpg);
+}
+/* card ends */
+
+.menu-card {
+  width: 45%;
+  height: 170px;
+
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  border-radius: 10px;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.2);
+
+  overflow: hidden;
+
+  padding: 0;
+  margin: 10px;
+}
+
+@media (max-width: 768px) {
+  .menu-container {
+    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+
+    padding: 20px;
+    margin: 160px 0 0 0;
+  }
+
+  .menu-card {
+    width: 100%;
+    height: auto;
+
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.2);
+
+    padding: 0;
+    margin: 10px 0;
+  }
+
+  .mc {
+    width: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1));
+
+    padding: 10px;
+  }
+
+  .menu-card img {
+    width: 100px;
+    height: 100px;
+  }
+
+  .menu-card-details {
+    height: 100px;
+  }
+
+  .menu-card-details h3 {
+    font-size: 15px !important;
+  }
+
+  .menu-card-details h3:nth-child(2) {
+    font-size: 12px !important;
+    letter-spacing: 1px;
+  }
+
+  .menu-card-details h3 span {
+    font-size: 10px;
+    font-weight: 500 !important;
+  }
+
+  .menu-card-details .price {
+    font-size: 12px !important;
+  }
+}
+
+@media (max-width: 920px) {
+  .menu-card-details h3 {
+    font-size: 18px;
+  }
+
+  .menu-card-details h3:nth-child(2) {
+    font-size: 13px !important;
+    letter-spacing: 1px;
+  }
+
+  .menu-card-details h3 span {
+    font-size: 13px;
+    font-weight: 500 !important;
+  }
+}
