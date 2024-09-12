@@ -164,6 +164,10 @@
   overflow-y: scroll;
 }
 
+.desc p{
+  margin: 0 0 3px 0;
+}
+
 .desc::-webkit-scrollbar{
   width: 0;
 }
@@ -309,7 +313,7 @@
   }
 
   .view-menu{
-    font-size: 10px;
+    font-size: 12px;
   }
 }
 /* Restaurant ends */
